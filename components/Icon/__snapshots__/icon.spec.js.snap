@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`default \`plus\` icon is \`sm\` 1`] = `
+<body>
+  <div>
+    
+    
+  </div>
+</body>
+`;
+
+exports[`icon \`plus\` can be \`lg\` 1`] = `
+<body>
+  <div>
+    
+    
+  </div>
+</body>
+`;
+
+exports[`icon \`plus\` can be \`md\` 1`] = `
+<body>
+  <div>
+    
+    
+  </div>
+</body>
+`;
+
+exports[`icon \`plus\` can be \`orange\` 1`] = `
+<body>
+  <div>
+    
+    
+  </div>
+</body>
+`;

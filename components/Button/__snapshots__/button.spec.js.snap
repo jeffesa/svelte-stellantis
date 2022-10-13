@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`button default is sm 1`] = `
+<body>
+  <div>
+    <button
+      class="sm"
+    >
+      
+    </button>
+  </div>
+</body>
+`;
+
+exports[`the button can be lg 1`] = `
+<body>
+  <div>
+    <button
+      class="lg"
+    >
+      
+    </button>
+  </div>
+</body>
+`;
+
+exports[`the button can be md 1`] = `
+<body>
+  <div>
+    <button
+      class="md"
+    >
+      
+    </button>
+  </div>
+</body>
+`;
